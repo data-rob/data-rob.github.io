@@ -1,5 +1,14 @@
 title: Robert Riemer
 logo: Headshot 1 Circle.jpg
 description: Data Analyst with a background in collaboration and public speaking.
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+theme: gem "jekyll-theme-minimal"
+
+#Layout
+show_social: true
+show_excerpts: true
+show_frame: true
+show_sidebar: true
+
+#Menu
+

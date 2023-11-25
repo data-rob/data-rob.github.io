@@ -14,20 +14,20 @@ sidebar:
 
     # Sidebar links
     email: robertriemer7(at)gmail.com
-    #phone: 012 345 6789
+    phone: 
     timezone: Pacific Standard Timezone
     citizenship: American
     website: data-rob.github.io #do not add http://
     linkedin: [Robert Riemer](www.linkedin.com/in/robert-riemer-9826911b3)
-    #xing: alandoe
+    xing: 
     github: [data-rob](https://github.com/data-rob)
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:

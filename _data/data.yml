@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -20,13 +20,13 @@ sidebar:
     linkedin: [Robert Riemer](www.linkedin.com/in/robert-riemer-9826911b3)
     #xing: alandoe
     github: [data-rob](https://github.com/data-rob)
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -35,26 +35,23 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: Intermediate
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Running
           link:
 
-        - item: Snowboarding
+        - item: Basketball
           link:
 
         - item: Cooking
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().

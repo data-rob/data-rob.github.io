@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Robert Riemer
-url: 'https://data-rob.github.io/'
+title: My Resume
+url: 'http://webjeda.com'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
@@ -34,5 +34,3 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
-
-

@@ -16,7 +16,7 @@ sidebar:
     email: robertriemer7@gmail.com
     phone:
     timezone: Pacific Standard Timezone
-    citizenship: American
+    citizenship:
     website: data-rob.github.io #do not add http://
     linkedin: Robert Riemer
     xing:
@@ -55,7 +55,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       Hi, my name is Robert and I am a data analyst who loves to answer questions and
       work with large data sets. I'm a naturally curious person who loves to explore 
@@ -66,33 +66,29 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Certificate of Data Analytics
+        program: CareerFoundry
+        time: Mar 2023 - Nov 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Online data analytics course with a complete curriculum with mentors
+          and tutors that teach the fundamental roles that a data analyst is 
+          expected to perform. The course teaches technical skills such as Python, SQL,
+          Excel, Tableau, GitHub, as well as analytical skills and project management
+          skills. 
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: AS in Astronomy
+        university: Cabrillo College
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Received Assosciates of Science in Astronomy.
             - Bullet point
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Projects
     info:
-      - role: Lead Developer
+      - project: Lead Developer
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
@@ -243,23 +239,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: R
+        level: 10%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Calculus I, II, III
+        level: 100%
 
-      - name: Ruby on Rails
+      - name: Tableau
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: 
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Template designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

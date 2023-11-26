@@ -64,7 +64,7 @@ education:
     title: Education
     info:
       - degree: Certificate of Data Analytics
-        program: CareerFoundry
+        university: CareerFoundry
         time: Mar 2023 - Nov 2023
         details: |
           Online data analytics course with a complete curriculum with mentors
@@ -83,24 +83,14 @@ education:
             - Bullet point
 
 experiences:
-    title: Projects
+    title: 
     info:
-      - project: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - project: Medical Staff Relocation Plan
+        time: Aug 2023
+        company: Center for Disease Control (CDC) & World Health Organization (WHO)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          
+      - role: Project Manager / Data Analyst
         time: 2014 - 2015
         company: Google, London
         details: |
@@ -171,9 +161,11 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Medical Staff Relocation Plan
+        photo: assets/images/Case Study/Slide4.JPG
+        link: "https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryAchievementStoryboard/ProjectStory"
+        tagline: "A plan for the medical staff relocation agency to help identify which states are most
+        at risk and can benefit the most from additional medical personnel"
 
       - title: DevStudio
         link: "#"
@@ -242,17 +234,17 @@ skills:
       - name: SQL
         level: 70%
 
-      - name: R
-        level: 10%
-
       - name: Calculus I, II, III
+        level: 100%
+
+      - name: Applied Math I & II
         level: 100%
 
       - name: Tableau
         level: 85%
 
-      - name: 
-        level: 60%
+      - name: R
+        level: 10%
 
 footer: >
     Template designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: robertriemer7@gmail.com
     phone:
-    timezone: Pacific Standard Timezone
+    timezone:
     citizenship:
     website: data-rob.github.io #do not add http://
     linkedin: Robert Riemer
@@ -97,7 +97,7 @@ certifications:
               Excel, Tableau, GitHub, as well as analytical skills and project management
 
         - name:
-          start: 2019
+          start:
           end:
           organization:
           credentialid:

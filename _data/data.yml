@@ -108,9 +108,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some of the projects that have kept me busy in the past. 
     assignments:
       - title: Medical Staff Relocation Plan
         photo: assets/images/Case Study/Slide4.JPG

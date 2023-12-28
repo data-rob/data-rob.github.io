@@ -54,12 +54,11 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Hi, my name is Robert and I am a data analyst who loves to answer questions and
-      work with large data sets. I'm a naturally curious person who loves to explore 
-      and detect the different relationships between data variables. My experience in 
-      public speaking and team leadership makes working efficiently and communicating results 
-      second nature. I'm excited to share with you the projects that I have had the pleasure
-      to work on throughout my career. Here, have a look!
+      Hi, my name is Robert and I am a data analyst who loves answering challenging questions and
+      working with large data sets. I'm a naturally curious person who loves to ask questions that others haven't thought of before 
+      and then exploring the different relationships between variables to search for answers.
+      My experience in public speaking and team leadership makes working efficiently and communicating results 
+      second nature. I'm excited to share with you the projects I have enjoyed working on throughout my career. Here, have a look!
 education:
     title: Education
     info:
@@ -73,7 +72,7 @@ education:
           Excel, Tableau, GitHub, as well as analytical skills and project management
           skills. 
      
-      - degree: AS in Astronomy
+      - degree: Associate of Science
         university: Cabrillo College
         time: Aug 2016 - Jun 2020
         details: |

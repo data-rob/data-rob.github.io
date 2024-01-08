@@ -119,9 +119,10 @@ projects:
         link: "#"
         tagline: "The video game company GameCo wants to conduct an analysis to determine the course of their game development."
 
-      - title:
-        link:
-        tagline:
+      - title: Rockbuster Movie Rental Store Analysis
+        link: "https://public.tableau.com/app/profile/robert.riemer/viz/RockbusterCountriesbyRevenue/Story1"
+        tagline: "Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. 
+"
 
 
 skills:

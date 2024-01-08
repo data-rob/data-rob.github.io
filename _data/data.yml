@@ -117,7 +117,7 @@ projects:
 
       - title: Video Game Market & Inventory Analysis
         link: "#"
-        tagline: "The video game company GameCo wants to conduct an analysis to determine the course of their game development."
+        tagline: "The video game company GameCo wants to conduct an analysis to determine the course of their game development. The company is invested in the global video game market so they want to know how different regions compare around the world."
 
       - title: Rockbuster Movie Rental Store Analysis
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/RockbusterCountriesbyRevenue/Story1"

@@ -112,8 +112,8 @@ projects:
       - title: Medical Staff Relocation Plan
         photo: assets/images/Case Study/Slide4.JPG
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryAchievementStoryboard/ProjectStory"
-        tagline: "A plan for the medical staff relocation agency to help identify which states are most
-                at risk and can benefit the most from additional medical personnel"
+        tagline: "A medical staffing agency that provides temporary workers to clinics and hospitals on an as-needed basis needs to plan for the upcoming influenza season. The analysis will help plan where the most staff will need to be sent by investigating different factors that put a state at risk of the virus. 
+ "
 
       - title: Video Game Market & Inventory Analysis
         link: "#"
@@ -134,6 +134,9 @@ skills:
 
       - name: SQL
         level: 70%
+
+      - name: Statistics
+        level: 100%
 
       - name: Calculus I, II, III
         level: 100%

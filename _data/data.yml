@@ -3,39 +3,26 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: left
+    about: False
+    education: True
 
     # Profile information
     name: Robert Riemer
     tagline: Data Analyst
-    avatar: Headshot 1 Circle.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: headshot_circle.jpg
 
     # Sidebar links
     email: robertriemer7@gmail.com
-    phone:
-    timezone:
-    citizenship:
-    website: data-rob.github.io #do not add http://
-    linkedin: Robert Riemer
-    xing:
+    website: data-rob.github.io
+    linkedin: robert-riemer
     github: data-rob
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: assets/images/CASE STUDIES PDF.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
           level: Native
-
         - idiom: Spanish
           level: Intermediate
 
@@ -43,22 +30,14 @@ sidebar:
       title: Interests
       info:
         - item: Basketball
-          link:
-
         - item: Running
-          link:
-
         - item: Cooking
-          link:
 
 career-profile:
     title: About Me
     summary: |
-      Hi, my name is Robert and I am a data analyst who loves answering challenging questions and
-      working with large data sets. I'm a naturally curious person who loves to ask questions that others haven't thought of before 
-      and then exploring the different relationships between variables to search for answers.
-      My experience in public speaking and team leadership makes working efficiently and communicating results 
-      second nature. I'm excited to share with you the projects I have enjoyed working on throughout my career. Here, have a look!
+      Hi, I'm Robert, a data analyst passionate about answering challenging questions and working with large datasets. My curiosity drives me to explore relationships between variables to find unique insights. With experience in public speaking and team leadership, I efficiently communicate results. Explore the projects I've enjoyed working on throughout my career.
+
 education:
     title: Education
     info:
@@ -66,18 +45,13 @@ education:
         university: CareerFoundry
         time: Mar 2023 - Nov 2023
         details: |
-          Online data analytics course with a complete curriculum with mentors
-          and tutors that teach the fundamental roles that a data analyst is 
-          expected to perform. The course teaches technical skills such as Python, SQL,
-          Excel, Tableau, GitHub, as well as analytical skills and project management
-          skills. 
-     
+          Completed an online data analytics course at CareerFoundry, covering Python, SQL, Excel, Tableau, GitHub, and project management. The comprehensive curriculum included hands-on projects with mentors and tutors, providing practical skills in data analysis.
+
       - degree: Associate of Science
         university: Cabrillo College
         time: Aug 2016 - Jun 2020
         details: |
-          Received Associates of Science in Astronomy
-
+          Earned an Associates of Science degree in Astronomy. Developed a strong foundation in scientific principles, critical thinking, and problem-solving.
 
 certifications:
       title: Certifications
@@ -86,69 +60,68 @@ certifications:
           start: 2023
           end: 2023
           organization: CareerFoundry
-          credentialid: 
           credentialurl: https://careerfoundry.com/
-          credentialname: CareerFoundry
           details: |
-             Online data analytics course with a complete curriculum with mentors
-              and tutors that teach the fundamental roles that a data analyst is 
-              expected to perform. The course teaches technical skills such as Python, SQL,
-              Excel, Tableau, GitHub, as well as analytical skills and project management
+            Completed an online data analytics course with CareerFoundry, gaining proficiency in Python, SQL, Excel, Tableau, GitHub, and project management. The program provided hands-on experience and mentorship, enhancing practical skills in data analysis.
 
-        - name:
-          start:
-          end:
-          organization:
-          credentialid:
-          credentialurl:
-          credentialname:
+        - name: [Your Next Certification]
+          start: [Start Date]
+          end: [End Date]
+          organization: [Organization]
+          credentialurl: [URL]
           details: |
+            [Provide details about your next certification here.]
 
 projects:
     title: Projects
-    intro: >
-      Here are some of the projects that have kept me busy in the past. 
+    intro: |
+      Explore some of the impactful projects I've worked on.
+
     assignments:
       - title: Medical Staff Relocation Plan
-        photo: assets/images/Case Study/Slide4.JPG
+        photo: assets/images/case_study/slide4.jpg
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryAchievementStoryboard/ProjectStory"
-        tagline: "A medical staffing agency that provides temporary workers to clinics and hospitals on an as-needed basis needs to plan for the upcoming influenza season. The analysis will help plan where the most staff will need to be sent by investigating different factors that put a state at risk of the virus. 
- "
+        tagline: "Conducted an analysis to assist a medical staffing agency in planning for the upcoming influenza season. Explored various factors contributing to a state's vulnerability to the virus, guiding strategic staff relocation efforts."
 
       - title: Video Game Market & Inventory Analysis
         link: "#"
-        tagline: "The video game company GameCo wants to conduct an analysis to determine the course of their game development. The company is invested in the global video game market so they want to know how different regions compare around the world."
+        tagline: "Analyzed the global video game market and inventory for GameCo, informing strategic decision-making in game development. Investigated regional variations to guide market expansion efforts."
 
       - title: Rockbuster Movie Rental Store Analysis
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/RockbusterCountriesbyRevenue/Story1"
-        tagline: "Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. 
-"
-
+        tagline: "Supported Rockbuster Stealth LLC in launching an online video rental service. Conducted a comprehensive analysis of countries by revenue, providing insights for a competitive strategy in the digital age."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
       - name: Python
         level: 80%
+        details: "Applied Python in various data analysis and visualization projects, demonstrating proficiency in data manipulation and scripting."
 
       - name: SQL
         level: 70%
+        details: "Utilized SQL for querying and analyzing databases, showcasing skills in extracting and transforming data for analysis."
 
       - name: Statistics
         level: 100%
+        details: "Applied statistical methods to extract meaningful insights from data, demonstrating a solid foundation in statistical analysis."
 
       - name: Calculus I, II, III
         level: 100%
+        details: "Mastered Calculus I, II, and III, applying mathematical concepts to solve complex problems in data analysis."
 
       - name: Applied Math I & II
         level: 100%
+        details: "Applied mathematical principles in data analysis, demonstrating strong analytical and problem-solving skills."
 
       - name: Tableau
         level: 85%
+        details: "Created interactive dashboards using Tableau for effective data visualization and storytelling, enhancing data-driven decision-making."
 
       - name: R
         level: 10%
+        details: "Started exploring R for statistical analysis and data visualization, eager to expand proficiency in this tool."
 
-footer: >
+footer: |
     Template designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

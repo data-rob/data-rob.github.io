@@ -64,13 +64,6 @@ certifications:
           details: |
             Completed an online data analytics course with CareerFoundry, gaining proficiency in Python, SQL, Excel, Tableau, GitHub, and project management. The program provided hands-on experience and mentorship, enhancing practical skills in data analysis.
 
-        - name: [Your Next Certification]
-          start: [Start Date]
-          end: [End Date]
-          organization: [Organization]
-          credentialurl: [URL]
-          details: |
-            [Provide details about your next certification here.]
 
 projects:
     title: Projects
@@ -81,11 +74,11 @@ projects:
       - title: Medical Staff Relocation Plan
         photo: assets/images/case_study/slide4.jpg
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryAchievementStoryboard/ProjectStory"
-        tagline: "Conducted an analysis to assist a medical staffing agency in planning for the upcoming influenza season. Explored various factors contributing to a state's vulnerability to the virus, guiding strategic staff relocation efforts."
+        tagline: "Conducted a comprehensive analysis to support a medical staffing agency's strategic planning for the imminent influenza season. Examined key factors influencing a state's susceptibility to the virus, informing data-driven decisions for optimizing staff relocation strategies."
 
       - title: Video Game Market & Inventory Analysis
         link: "#"
-        tagline: "Analyzed the global video game market and inventory for GameCo, informing strategic decision-making in game development. Investigated regional variations to guide market expansion efforts."
+        tagline: "Embarked on a detailed exploration of the global video game landscape and GameCo's inventory, contributing nuanced insights to drive thoughtful decisions in game development. Uncovered regional intricacies, allowing for a tailored approach in steering targeted market expansion efforts."
 
       - title: Rockbuster Movie Rental Store Analysis
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/RockbusterCountriesbyRevenue/Story1"

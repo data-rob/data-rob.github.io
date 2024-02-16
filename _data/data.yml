@@ -66,7 +66,7 @@ certifications:
 
 
 projects:
-    title: Projects
+    title: Work History and Projects
     intro: |
       Explore some of the impactful projects I've worked on.
 
@@ -77,8 +77,8 @@ projects:
         tagline: "Conducted a comprehensive analysis to support a medical staffing agency's strategic planning for the imminent influenza season. Examined key factors influencing a state's susceptibility to the virus, informing data-driven decisions for optimizing staff relocation strategies."
 
       - title: NBA Draft Analysis
-        link: "https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryAchievementStoryboard/ProjectStory"
-        tagline: "Conducted a comprehensive analysis to support a medical staffing agency's strategic planning for the imminent influenza season. Examined key factors influencing a state's susceptibility to the virus, informing data-driven decisions for optimizing staff relocation strategies."
+        link: "https://drive.google.com/file/d/19cYosz2xPq3nBMrmeGpep4MNnxDNWR7n/view?usp=drive_link"
+        tagline: "Used Postgresql and wrote SQL queries to create result tables from a database of NBA games and players from 1981-2023. Successfully rejected the null hypothesis and concluded that there is an increasing number of players entering the NBA draft each year who did not play collegiate basketball. Did further research to determine the causes of this conclusion and used data forecasting to predict how the NBA draft might be different in the future."
 
       - title: Video Game Market & Inventory Analysis
         link: "https://drive.google.com/file/d/1kKbqvCiTQUmPKdT9GqIIY8AcmL1geB6p/view?usp=drive_link"

@@ -66,11 +66,16 @@ certifications:
 
 
 projects:
-    title: Projects
+    title: Work History & Projects
     intro: |
       Explore some of the impactful projects I've worked on.
 
     assignments:
+
+     - title: NBA Draft Analysis
+        link: "https://drive.google.com/file/d/19cYosz2xPq3nBMrmeGpep4MNnxDNWR7n/view?usp=drive_link"
+        tagline: "A deep dive exploring NBA draft classes from 1981 to 2023 to determine if there is an increasing trend in players choosing alternative options to the NCAA."
+      
       - title: Medical Staff Relocation Plan
         photo: assets/images/case_study/slide4.jpg
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryAchievementStoryboard/ProjectStory"
@@ -83,6 +88,7 @@ projects:
       - title: Rockbuster Movie Rental Store Analysis
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/RockbusterCountriesbyRevenue/Story1"
         tagline: "Supported Rockbuster Stealth LLC in launching an online video rental service. Conducted a comprehensive analysis of countries by revenue, providing insights for a competitive strategy in the digital age."
+
 
 skills:
     title: Skills & Proficiency

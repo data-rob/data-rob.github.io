@@ -72,7 +72,7 @@ projects:
 
     assignments:
       - title: Medical Staff Relocation Plan
-        photo: assets/images/case_study/slide4.jpg
+        photo: /Case Study/Slide4.jpg
         link: "https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryAchievementStoryboard/ProjectStory"
         tagline: "Conducted a comprehensive analysis to support a medical staffing agency's strategic planning for the imminent influenza season. Examined key factors influencing a state's susceptibility to the virus, informing data-driven decisions for optimizing staff relocation strategies."
 
